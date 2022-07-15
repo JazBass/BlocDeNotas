@@ -1,6 +1,7 @@
-# BlocDeNotas
+# Notepas
 
-Bloc de Notas realizado con java, se puede crear o abrir archivos de texto, guardarlos y modificarlos. 
-Cuenta ademas con la posibilidad de modificar el tipo, tamaño y color de la fuente.
+My first app, very simple but I have a special affection for it.
 
-Librerías utilizadas java.IO y java.awt
+Made in Java <3
+
+java.IO y java.awt
